@@ -15,7 +15,7 @@ const config: Config = {
 
       colors: {
         accent: "#fcb728",
-        blakish: "#1b1b1b",  
+        blackish: "#1b1b1b",  
       },
     },
   },
