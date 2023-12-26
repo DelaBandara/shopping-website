@@ -44,6 +44,20 @@ const productsData = [
     rating: 4,
     price: "120.00",
   },
+  {
+    img: "/sports-1.jpg",
+    title: "Sports",
+    desc: "Trekking & Running Shoes - Black",
+    rating: 3,
+    price: "58.00",
+  },
+  {
+    img: "/jacket-1.jpg",
+    title: "Jacket",
+    desc: "MEN Yarn Fleece Full-Zip Jacket",
+    rating: 4,
+    price: "45.00",
+  },
 ]
 
 const NewProducts = () => {
